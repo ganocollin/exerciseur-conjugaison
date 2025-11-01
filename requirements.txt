@@ -1,4 +1,7 @@
-streamlit
-pandas
+streamlit==1.37.0
+pandas>=2.0
 matplotlib
+pyarrow
+pytz
+python-dateutil
 openpyxl
